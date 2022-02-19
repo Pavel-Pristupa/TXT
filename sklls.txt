@@ -1,0 +1,5 @@
+Hard_skills:
+	API: Postman;
+	sniffers: Charles, Fiddler;
+	mobile: AS, Xcode;				
+Soft_skills: Communication, Problem-solving, Working under stress.
