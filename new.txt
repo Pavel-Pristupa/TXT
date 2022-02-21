@@ -2,4 +2,3 @@ Name - Pavel
 Age - 32
 Pets - 1
 Sallary - 1000
-
